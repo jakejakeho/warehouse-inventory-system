@@ -11,6 +11,6 @@ Create MySQL DB:
 5. spring.datasource.password = <DB_LOGIN_PW>
 
 
-Run: mvnw spring-boot:run
+Run: .\mvnw.cmd spring-boot:run
 
 Test: import warehouse-inventory-system.postman_collection.json with Postman to test APIs
